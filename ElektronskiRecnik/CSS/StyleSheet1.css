@@ -1,0 +1,79 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 1%;
+    display: flex;
+    width: 98.5%;
+    height: 50px;
+    background-color: steelblue;
+    align-items: center;
+}
+
+    header p {
+        font-size: 30px;
+        color: white;
+    }
+
+.menu {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background-color: midnightblue;
+    padding-left: 10px;
+}
+
+    .menu .dumge {
+        width: 100px;
+        height: 30px;
+        background-color: royalblue;
+        color: white;
+    }
+.tabela {
+    padding: 3%;
+}
+
+.auto-style1 {
+    width: 40%;
+}
+
+.info {
+    width: 10%;
+}
+
+.sirina {
+    width: 70%;
+}
+
+.element {
+    width: 50%;
+}
+
+.auto-style2 {
+    width: 20%;
+}
+
+#tekst {
+    padding: 1%;
+    font-size: 40px;
+    text-align: center
+}
+
+#uputstvo {
+    padding:1%;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+}
+
+
